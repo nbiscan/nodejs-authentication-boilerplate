@@ -1,2 +1,2 @@
 # nodejs-authentication-boilerplate
-ExpressJS boilerplate code containing signin and signup logic for users.
+ExpressJS boilerplate code containing sign in and sign up logic for users.
