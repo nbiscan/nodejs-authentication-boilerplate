@@ -1,5 +1,5 @@
 # nodejs-authentication-boilerplate
-ExpressJS boilerplate code containing sign in and sign up logic for users.
+ExpressJS + MongoDB boilerplate code containing sign in and sign up logic for users.
 
 ## Starting the server
 
